@@ -1,8 +1,41 @@
-/desktop.ini
-/Etu__XAI_sur_données_tabulaires_—_Notebook_1.ipynb
-/TD1_BreastCancer_XAI_Etu.ipynb
-/XAI_Mini_Projets+Listes.ipynb
-/XAI_Mini_Projets.ipynb
-/XAI_Presentation_COCO.ipynb
-/XAI_Vision.ipynb
-/YOLO_GradCAM_XAI.ipynb
+# Windows system files
+desktop.ini
+Desktop.ini
+Thumbs.db
+*.lnk
+
+# Google Drive File Stream
+.tmp.driveupload/
+.tmp.drivedownload/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Notebooks temporaires (décommenter si nécessaire)
+# /Etu__XAI_sur_données_tabulaires_—_Notebook_1.ipynb
+# /TD1_BreastCancer_XAI_Etu.ipynb
+# /XAI_Mini_Projets+Listes.ipynb
+# /XAI_Mini_Projets.ipynb
+# /XAI_Presentation_COCO.ipynb
+# /XAI_Vision.ipynb
+# /YOLO_GradCAM_XAI.ipynb
